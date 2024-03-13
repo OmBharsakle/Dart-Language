@@ -7,7 +7,7 @@ void main()
   print("Enter The Number :");
   int n = int.parse(stdin.readLineSync()!);
 
-  for(i=1; i<=n; i++)
+  for(i=1; i<=n; i++) 
   {
     sum+=i;
   }
