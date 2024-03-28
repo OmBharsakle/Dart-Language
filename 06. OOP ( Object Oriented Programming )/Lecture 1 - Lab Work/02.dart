@@ -7,7 +7,7 @@
 import 'dart:io';
 
 class RailwaySystem
-{
+{ 
   String? _TrainName, _TrainSource, _Destination;
   int? _TrainNumber, _TrainTime, _Choice;
 
