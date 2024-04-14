@@ -8,7 +8,7 @@ void main()
     }
 
     late int  sum = 0;
-    Lists.forEach((element) { sum = sum + element;});
+    Lists.forEach((element) { sum = sum + element;}); 
     return sum;
   }
 
